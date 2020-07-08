@@ -1,3 +1,3 @@
-"# copyr" 
-"# copyr" 
-git remote add origin https://github.com/inkinby/copyr.git
+WebSite Copyr
+Python Flask MySQL
+https://github.com/inkinby/copyr
